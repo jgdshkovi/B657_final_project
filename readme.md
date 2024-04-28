@@ -12,6 +12,6 @@ The Indiana University Libraries Moving Image Archive (IULMIA) has a collection 
 4. `yolo5_365.ipybn` notebook requires yolov5 model to be cloned from the official repository.
 
 ## Instructions to Run the GroudingDINO + SAM
-1. Run the provided Grounding_DINO+SAM.ipynb  file using colab.
+1. Run the provided Grounding_DINO+SAM_final.ipynb  file using colab.
 2. Upload the videos.zip file in the colab under videos directory.
 3. Then keep running the cells in the colab.
