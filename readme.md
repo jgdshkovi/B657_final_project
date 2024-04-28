@@ -10,3 +10,8 @@ The Indiana University Libraries Moving Image Archive (IULMIA) has a collection 
 2. Run the `dataset.ipybn` notebook to extract frames from the videos. This will create a `data/frames` directory with the extracted frames.
 3. Outputs from the object detection models will be saved in the `data/results` directory.
 4. `yolo5_365.ipybn` notebook requires yolov5 model to be cloned from the official repository.
+
+## Instructions to Run the GroudingDINO + SAM
+1. Run the provided Grounding_DINO+SAM.ipynb  file using colab.
+2. Upload the videos.zip file in the colab under videos directory.
+3. Then keep running the cells in the colab.
